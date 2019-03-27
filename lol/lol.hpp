@@ -1,7 +1,6 @@
 /*
 ||
-|| @author Alexander Brevig
-|| @version 1.0
+|| @Basado en la libreria CharliePlex de Alexander Brevig (ver1.1) 
 ||
 */
 
